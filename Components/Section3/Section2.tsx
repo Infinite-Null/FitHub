@@ -4,6 +4,7 @@ import Heading from "@/Elements/Heading";
 import { useState } from "react";
 import { Modal, useModal, Button,} from "@nextui-org/react";
 import { CCard,CCardImage,CCardBody,CCardTitle,CCardText} from '@coreui/react';
+import { motion } from 'framer-motion';
 export default function Section3({features}:{
   features:{
     title:string,
@@ -56,7 +57,20 @@ console.error(error);
 setLoding(()=>false);
   }
 
-    return <><div onClick={()=>{setVisible(true)
+    return <><motion.div 
+    initial={{
+      opacity:0,
+      x:60,
+     }}
+     whileInView={{
+      opacity:1,
+      x:0,
+     }}
+     transition={{
+      duration:0.6,
+      delay:0.2
+     }}
+    onClick={()=>{setVisible(true)
       FetchData(title)  
    }
      }>
@@ -78,7 +92,7 @@ setLoding(()=>false);
       </Grid.Container>
     </Card.Header>
   </Card>
-  </div>
+  </motion.div>
   <Modal
         scroll
         width="600px"

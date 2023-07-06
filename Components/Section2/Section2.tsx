@@ -4,6 +4,7 @@ import classes from "./Section2.module.css"
 import Heading from "@/Elements/Heading";
 import {useState } from "react";
 import { CCard,CRow,CCol,CCardImage,CCardBody,CCardTitle,CCardText} from '@coreui/react';
+import { motion } from 'framer-motion';
 export default function Section2({features}:{
   features:{
     title:string,
@@ -31,7 +32,7 @@ export default function Section2({features}:{
 function CardFeature({title,discription,image}:{
   title:string,
   discription:string,
-  image:string
+  image:string,
 }){
     
   const { setVisible, bindings } = useModal();
@@ -63,7 +64,21 @@ setLoding(()=>false);
   }
  
     return <>
-    <div onClick={()=>{setVisible(true)
+    <motion.div 
+    initial={{
+      opacity:0,
+      x:60,
+     }}
+     whileInView={{
+      opacity:1,
+      x:0,
+     }}
+     transition={{
+      duration:0.6,
+      delay:0.2
+     }}
+    
+    onClick={()=>{setVisible(true)
      FetchData(title)  
   }
     }>
@@ -90,7 +105,7 @@ setLoding(()=>false);
       </Text>
     </Card.Body>
   </Card>
-  </div>
+  </motion.div>
   
 
 
