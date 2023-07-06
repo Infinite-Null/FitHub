@@ -75,6 +75,7 @@ export default function Home(){
      
     }
   ]}/>
+  <div style={{marginTop:"40px"}}></div>
   <About/>
   <Bottom/>
   </>

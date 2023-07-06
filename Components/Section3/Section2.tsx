@@ -12,7 +12,7 @@ export default function Section3({features}:{
 }){
     return <>
     <Heading title="Equipments"/>
-    <h1 style={{margin:"20px"}}><center className={classes.select}>Click a category to get its <span className={classes.select1}>Exercises</span></center></h1>
+    <h1 style={{marginBottom:'60px'}}><center className={classes.select}>Click a category to get its <span className={classes.select1}>Exercises</span></center></h1>
     <div className={classes.featuresHolder}>
         {features.map((e)=>
           <CardFeature 

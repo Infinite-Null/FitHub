@@ -13,7 +13,7 @@ export default function Section2({features}:{
 }){
     return <>
     <Heading title="Body Symphony"/>
-    <h1 style={{margin:"20px"}}><center className={classes.select}>Click a category to get its <span className={classes.select1}>Exercises</span></center></h1>
+    <h1 style={{marginBottom:'60px'}}><center className={classes.select}>Click a category to get its <span className={classes.select1}>Exercises</span></center></h1>
 
     <div className={classes.featuresHolder}>
         {features.map((e,i)=>
@@ -78,13 +78,13 @@ setLoding(()=>false);
       />
       <Grid.Container css={{ pl: "$6",}}>
         <Grid xs={12}>
-          <Text h4 css={{ lineHeight: "$xs" , fontSize:"26px", textTransform:"uppercase"}}>
+          <Text h4 css={{ lineHeight: "$xs" , fontSize:"26px", textTransform:"uppercase", letterSpacing:"-1px"}}>
           {title}
           </Text>
         </Grid>
       </Grid.Container>
     </Card.Header>
-    <Card.Body css={{ py: "$2" , fontSize:"20px"}}>
+    <Card.Body css={{ py: "$2" , fontSize:"20px",letterSpacing:"1px"}}>
       <Text>
         {discription}
       </Text>

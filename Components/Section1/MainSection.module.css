@@ -15,12 +15,14 @@
     border: 0.5cap solid transparent;
     font-size: 5.5vw;
     font-weight: 900;
+    letter-spacing: -1px;
 }
 .Discription{
     border: 1.5cap solid transparent;
     font-size: 2vw;
-    font-weight: 100;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 0.5px;
+    font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .LeftButton{
     display: flex;
