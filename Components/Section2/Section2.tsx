@@ -12,7 +12,8 @@ export default function Section2({features}:{
   }[]
 }){
     return <>
-    <Heading title="Body Parts"/>
+    <Heading title="Body Symphony"/>
+    <h1 style={{margin:"20px"}}><center className={classes.select}>Click a category to get its <span className={classes.select1}>Exercises</span></center></h1>
 
     <div className={classes.featuresHolder}>
         {features.map((e,i)=>

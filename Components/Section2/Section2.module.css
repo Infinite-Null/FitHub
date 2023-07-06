@@ -11,6 +11,14 @@
     min-width: 30vw;
     max-width: 30vw;
 }
+.select{
+    color:black;
+    font-weight: 400;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.select1{
+    color: rgb(24, 24, 24);
+}
 @media screen and (max-width:800px) {
     .featuresHolder{
         flex-wrap: wrap;
