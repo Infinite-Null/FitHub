@@ -32,12 +32,12 @@ Now the server is running in http://localhost:30000/
 ## Features
 * Minimal Ui
 * Easy To use
-* Secure
-* Uses Blockchain technology
-* Uses Meta Mask
+* Accurate
+* Uses gif to demonstrate the excercise
+* Animations
 * Fully Responsive
-* Each Transaction is linked with a gif
-* Each Transaction is stored and can be viewed later
+* User can select part specific exercise
+* User can select equipment specific exercise
 
 ## License
 >Copyright © 2023 Infinite-Null
