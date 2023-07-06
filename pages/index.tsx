@@ -29,7 +29,7 @@ export default function Home(){
     {
       title:"chest",
       image:"https://www.shutterstock.com/image-vector/illustration-man-beautiful-muscles-260nw-1392706520.jpg",
-      discription:"It houses important organs like the heart and lungs, vital for respiration."
+      discription:"It houses important organs like the heart and lungs, vital for respiration. It is one of most important part for human."
     },
     {
       title:"neck",
@@ -42,7 +42,7 @@ export default function Home(){
       discription:"The waist is the narrowest part of the torso, located between the ribcage and the hips."
     },
     {
-      title:"shoulder",
+      title:"shoulders",
       image:"https://media.istockphoto.com/id/1354776364/vector/health-problem-disease-symptoms-and-unhealthy-body-sickness-concept-male-character-feeling.jpg?s=612x612&w=0&k=20&c=a5WRMmLmLxDjocnkuo5e-_xulES0CZcyyUHbVOO7WIU=",
       discription:"The shoulder provides a wide range of motion and is crucial for activities involving lifting, reaching, and throwing."
     }

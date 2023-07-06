@@ -25,7 +25,7 @@ function CardFeature({title,image}:{
   title:string,
   image:string
 }){
-    return <Card css={{ p: "$6", mw: "30vw" , border:"2px solid black",}} isHoverable={true}>
+    return <Card css={{ p: "$6", border:"2px solid black",}}className={classes.card} isHoverable={true}>
     <Card.Header>
       <img
         alt="nextui logo"
