@@ -1,0 +1,19 @@
+.dis{
+  font-size: 25px;
+  font-weight: 100;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.img{
+    border-radius: 100%;
+    height: 200px;
+    width: 200px;
+}
+@media screen and (max-width:580px) {
+    .dis{
+        font-size: 4.5vw;
+    }
+    .img{
+        height: 25vw;
+        width: 25vw;
+    }
+}

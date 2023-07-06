@@ -1,0 +1,14 @@
+.featuresHolder{
+    display: flex;
+    align-items: stretch;
+    justify-content: space-evenly;
+    gap: 20px;
+    margin-left: 3.3vw;
+    margin-right: 3.3vw;
+    flex-wrap: wrap;
+}
+@media screen and (max-width:800px) {
+    .featuresHolder{
+        flex-wrap: nowrap;
+    }
+}

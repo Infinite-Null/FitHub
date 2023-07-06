@@ -1,0 +1,23 @@
+.heading{
+    font-size: 70px;
+    margin-top: 200px;
+}
+@media screen and (max-width:1000px){
+    .heading{
+        font-size: 5vw;
+        margin-top: 150px;
+    }
+}
+@media screen and (max-width:900px) {
+   
+    .heading{
+        font-size: 5vw;
+        margin-top: 150px;
+    }
+}
+@media screen and (max-width:800px) {
+    .heading{
+        font-size: 10vw;
+        margin-top: 150px;
+    }
+}
