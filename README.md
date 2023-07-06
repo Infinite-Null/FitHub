@@ -27,7 +27,7 @@ Now the server is running in http://localhost:30000/
 
 ## Screenshots
 
-![Screenshot (51)](https://github.com/Infinite-Null/FitHub/assets/97950192/1c546b92-f59f-4764-ad62-6e5bcce98ab8)![Screenshot (52)](https://github.com/Infinite-Null/FitHub/assets/97950192/a71c9500-144d-4f9a-b698-1cf62df96105)![Screenshot (55)](https://github.com/Infinite-Null/FitHub/assets/97950192/45674a83-01bf-482c-8f17-6a7a06b3d305)![Screenshot (53)](https://github.com/Infinite-Null/FitHub/assets/97950192/1c391be7-c29a-4660-a0b5-3258dd8d0d01)![Screenshot (53)](https://github.com/Infinite-Null/FitHub/assets/97950192/729b1c82-21f4-43bc-a899-fcc891949360)![Screenshot (56)](https://github.com/Infinite-Null/FitHub/assets/97950192/d4289cb4-3462-46a9-a9ed-31131b1f7421)![Screenshot (54)](https://github.com/Infinite-Null/FitHub/assets/97950192/1dd09c96-1ce7-4dcf-b128-df2b86fa3374)
+![Screenshot (51)](https://github.com/Infinite-Null/FitHub/assets/97950192/1c546b92-f59f-4764-ad62-6e5bcce98ab8)![Screenshot (52)](https://github.com/Infinite-Null/FitHub/assets/97950192/a71c9500-144d-4f9a-b698-1cf62df96105)![Screenshot (55)](https://github.com/Infinite-Null/FitHub/assets/97950192/45674a83-01bf-482c-8f17-6a7a06b3d305)![Screenshot (53)](https://github.com/Infinite-Null/FitHub/assets/97950192/729b1c82-21f4-43bc-a899-fcc891949360)![Screenshot (56)](https://github.com/Infinite-Null/FitHub/assets/97950192/d4289cb4-3462-46a9-a9ed-31131b1f7421)![Screenshot (54)](https://github.com/Infinite-Null/FitHub/assets/97950192/1dd09c96-1ce7-4dcf-b128-df2b86fa3374)
 
 ## Features
 * Minimal Ui
