@@ -1,8 +1,5 @@
-# Wallet-Master
-
+# FitHub
 ![WhatsApp Image 2023-07-06 at 7 07 41 PM](https://github.com/Infinite-Null/FitHub/assets/97950192/ac084d07-c694-4b27-9f94-6a3d2655e426)
-
-
 
 >[Live Demo](https://fithub-fitness.web.app/)
 
@@ -15,9 +12,9 @@ In this growing era of technology everyone wants to do exercises to be fit. The 
 To install the project frist have to make the clone of project locally :
 
 ```
-git clone https://github.com/Infinite-Null/Web3-Wallet
-cd Web3-Wallet/Client
-npm install #or yarn install
+git clone https://github.com/Infinite-Null/FitHub
+cd FitHub
+npm install
 ```
 
 To strat the project at your LocalHost :
@@ -26,13 +23,11 @@ To strat the project at your LocalHost :
 npm run dev
 ```
 
-Now the server is running in http://localhost:5173/
+Now the server is running in http://localhost:30000/
 
 ## Screenshots
 
-![Screenshot (43)](https://github.com/Infinite-Null/Wallet-Master/assets/97950192/ac7fa5d6-1ad9-4fc1-a293-c32f6677e433) ![Screenshot (44)](https://github.com/Infinite-Null/Wallet-Master/assets/97950192/2318c294-ddc6-4311-9b32-3cc1c40f9acb) ![Screenshot (48)](https://github.com/Infinite-Null/Wallet-Master/assets/97950192/4a0b9ed2-0bdd-42fe-bfb6-6318a6988bc2)
-![Screenshot (49)](https://github.com/Infinite-Null/Wallet-Master/assets/97950192/010158a4-935c-4dab-a860-919370673050) ![Screenshot (50)](https://github.com/Infinite-Null/Wallet-Master/assets/97950192/b1dbfe88-86ef-45b2-b080-8a407bf16721) ![Screenshot (47)](https://github.com/Infinite-Null/Wallet-Master/assets/97950192/03bd5cdf-2a65-4688-962e-f0fed29729b4)
-![Screenshot (46)](https://github.com/Infinite-Null/Wallet-Master/assets/97950192/5bf7e54a-e78c-4847-bdbf-16b57a205fcd)
+![Screenshot (51)](https://github.com/Infinite-Null/FitHub/assets/97950192/1c546b92-f59f-4764-ad62-6e5bcce98ab8)![Screenshot (52)](https://github.com/Infinite-Null/FitHub/assets/97950192/a71c9500-144d-4f9a-b698-1cf62df96105)![Screenshot (55)](https://github.com/Infinite-Null/FitHub/assets/97950192/45674a83-01bf-482c-8f17-6a7a06b3d305)![Screenshot (53)](https://github.com/Infinite-Null/FitHub/assets/97950192/1c391be7-c29a-4660-a0b5-3258dd8d0d01)![Screenshot (53)](https://github.com/Infinite-Null/FitHub/assets/97950192/729b1c82-21f4-43bc-a899-fcc891949360)![Screenshot (56)](https://github.com/Infinite-Null/FitHub/assets/97950192/d4289cb4-3462-46a9-a9ed-31131b1f7421)![Screenshot (54)](https://github.com/Infinite-Null/FitHub/assets/97950192/1dd09c96-1ce7-4dcf-b128-df2b86fa3374)
 
 ## Features
 * Minimal Ui
